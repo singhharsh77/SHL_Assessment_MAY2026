@@ -36,7 +36,7 @@ Below is a live demonstration of the Hybrid RAG agent parsing vague requirements
 ## Screenshots
 
 ## Local Env
-  <img width="799" height="602" alt="Screenshot 2026-05-09 at 1 18 25 PM" src="https://github.com/user-attachments/assets/70b7d16b-bf1f-41e4-944c-bc0feffd29d5" />
+  <img width="699" height="502" alt="Screenshot 2026-05-09 at 1 18 25 PM" src="https://github.com/user-attachments/assets/70b7d16b-bf1f-41e4-944c-bc0feffd29d5" />
 
 
 ## Live Env : [https://shlassessment-production-cc08.up.railway.app/](https://shlassessment-production-cc08.up.railway.app/) 
@@ -45,15 +45,15 @@ Below is a live demonstration of the Hybrid RAG agent parsing vague requirements
 ### /chats
 
 - Request
-  <img width="714" height="585" alt="Screenshot 2026-05-09 at 1 49 28 PM" src="https://github.com/user-attachments/assets/48315e5f-9bef-4fd0-8ad1-2d5fb40e734d" />
+  <img width="614" height="485" alt="Screenshot 2026-05-09 at 1 49 28 PM" src="https://github.com/user-attachments/assets/48315e5f-9bef-4fd0-8ad1-2d5fb40e734d" />
 
 - Response
-  <img width="716" height="667" alt="Screenshot 2026-05-09 at 1 49 46 PM" src="https://github.com/user-attachments/assets/146aa686-5803-4875-aa49-ad6bdfd6f93c" />
+  <img width="616" height="567" alt="Screenshot 2026-05-09 at 1 49 46 PM" src="https://github.com/user-attachments/assets/146aa686-5803-4875-aa49-ad6bdfd6f93c" />
 
 
 ### /health
 
-<img width="550" height="282" alt="Screenshot 2026-05-09 at 1 50 02 PM" src="https://github.com/user-attachments/assets/aa7ea25b-d4fd-4ad5-b636-d2772736864b" />
+<img width="450" height="200" alt="Screenshot 2026-05-09 at 1 50 02 PM" src="https://github.com/user-attachments/assets/aa7ea25b-d4fd-4ad5-b636-d2772736864b" />
 
   
 
