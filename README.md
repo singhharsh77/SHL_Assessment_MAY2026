@@ -39,7 +39,8 @@ Below is a live demonstration of the Hybrid RAG agent parsing vague requirements
   <img width="799" height="602" alt="Screenshot 2026-05-09 at 1 18 25 PM" src="https://github.com/user-attachments/assets/70b7d16b-bf1f-41e4-944c-bc0feffd29d5" />
 
 
-## Live Env
+## Live Env : [https://shlassessment-production-cc08.up.railway.app/](https://shlassessment-production-cc08.up.railway.app/) 
+### use ```/chat , /health``` for testing
 
 ### /chats
 
