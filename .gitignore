@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+shl_embeddings.npy
+.DS_Store
+.env
