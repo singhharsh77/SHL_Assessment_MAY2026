@@ -1,4 +1,4 @@
-<img width="550" height="282" alt="Screenshot 2026-05-09 at 1 50 02 PM" src="https://github.com/user-attachments/assets/ced7ebbd-9a2c-42c0-ac80-8d5285e454fd" /><img width="716" height="667" alt="Screenshot 2026-05-09 at 1 49 46 PM" src="https://github.com/user-attachments/assets/3f13cb6a-f5c2-4fd8-8984-00d96b887261" /># Conversational SHL Assessment Recommender
+# Conversational SHL Assessment Recommender
 
 This repository contains a stateless FastAPI microservice that powers an AI conversational agent designed to help hiring managers seamlessly select SHL assessments.
 
@@ -32,23 +32,29 @@ To prevent the LLM from leaking recommendations during the clarification phase, 
 
 Below is a live demonstration of the Hybrid RAG agent parsing vague requirements, asking for clarification (while strictly outputting no recommendations), and finally committing to a highly accurate shortlist.
 
-## SCREENSHORTS
 
-## /chat
-### Local Env
-<img width="799" height="602" alt="Screenshot 2026-05-09 at 1 18 25 PM" src="https://github.com/user-attachments/assets/0aff3f80-3731-4aac-b84b-83742cdb4a9f" />
+## Screenshots
 
-### Live Env
+## Local Env
+  <img width="799" height="602" alt="Screenshot 2026-05-09 at 1 18 25 PM" src="https://github.com/user-attachments/assets/70b7d16b-bf1f-41e4-944c-bc0feffd29d5" />
+
+
+## Live Env
+
+### /chats
+
 - Request
-<img width="714" height="585" alt="Screenshot 2026-05-09 at 1 49 28 PM" src="https://github.com/user-attachments/assets/c51e9a29-09e8-4c89-bfbb-8f6fada09c5e" />
-<br><br>
-- Response <br>
-- <img width="716" height="667" alt="Screenshot 2026-05-09 at 1 49 46 PM" src="https://github.com/user-attachments/assets/ccc697c9-55b7-4bb7-a694-69588044d385" />
+  <img width="714" height="585" alt="Screenshot 2026-05-09 at 1 49 28 PM" src="https://github.com/user-attachments/assets/48315e5f-9bef-4fd0-8ad1-2d5fb40e734d" />
 
-## /health
-<img width="550" height="282" alt="Screenshot 2026-05-09 at 1 50 02 PM" src="https://github.com/user-attachments/assets/bbdf5fe2-dd3b-41bf-b958-61b56e98829f" />
+- Response
+  <img width="716" height="667" alt="Screenshot 2026-05-09 at 1 49 46 PM" src="https://github.com/user-attachments/assets/146aa686-5803-4875-aa49-ad6bdfd6f93c" />
 
 
+### /health
+
+<img width="550" height="282" alt="Screenshot 2026-05-09 at 1 50 02 PM" src="https://github.com/user-attachments/assets/aa7ea25b-d4fd-4ad5-b636-d2772736864b" />
+
+  
 
 ## Running the Project
 
